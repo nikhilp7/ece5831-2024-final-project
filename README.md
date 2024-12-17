@@ -5,3 +5,5 @@
 
 ## Youtube Video Demo and Presentation link.
 ##### Youtube link:- 
+
+###### The repository consists of the Project report and Project presentation slides. It also has both the ipynb where we have developed and trained YOLOv8 model and Faster RCNN model on the PCB dataset.
