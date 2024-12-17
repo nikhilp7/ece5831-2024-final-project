@@ -35,13 +35,13 @@ Printed Circuit Boards (PCBs) are critical to modern electronics, and ensuring t
 
 ## Resources  
 The following resources provide an in-depth understanding of the project:  
-- *Pre-recorded Presentation Video*: [Watch Here](#)  
-- *Presentation Slides*: [View Slides](#)  
-- *Project Report*:   
+- *Pre-recorded Presentation Video*: [https://youtu.be/TYggpieHB2o](#)  
+- *Presentation Slides*: [https://docs.google.com/presentation/d/1KlMo_dcoHn0B7RtM7u4PYO1MqJWtjmiX/edit?usp=sharing&ouid=118045303379538944400&rtpof=true&sd=true](#)  
+- *Project Report*: ece-5831-2024-final-project-Report.pdf in the repo
 - *Dataset*: [https://drive.google.com/drive/folders/1q-z00fWdZ05wqOrA3a3dGQTY_WU32rHf?usp=sharing](#)  
 - *Demo Videos*:  
-  - *YOLOv8 Demo*: [https://drive.google.com/file/d/12-ACcH-SwyPX3P9VZjcAQ8QKrfh86y1L/view?usp=sharing](#)  
-  - *Faster R-CNN ResNet Demo*: [](#)  
+  - *YOLOv8 Demo*: [https://youtu.be/MePYKm5_otI](#)  
+  - *Faster R-CNN ResNet Demo*: [https://youtu.be/5oRi_X5i1fA](#)  
 
 ---
 
